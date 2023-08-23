@@ -1,7 +1,7 @@
 # Stock-returns-machine-learning
 Using various supervised machine learning algorithms to predict stock returns
 
-**In Part 1, raw data is obtained from various sources.** <br>
+**In Part 1, raw data was obtained from various sources.** <br>
 Tickers of all stocks listed on America's three stock exchanges: NYSE, AMEX and NASDAQ, were obtained from the NASDAQ Stock Screener. <br>
 _Refer to nasdaq_screener_1672920378111.csv_
 
